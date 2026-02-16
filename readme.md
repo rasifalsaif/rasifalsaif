@@ -1,69 +1,72 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Saif</h1>
-<h3 align="center">🚀 Full Stack Developer | Modular & Scalable Architecture Focused</h3>
+<h3 align="center">🚀 Full Stack Developer | Scalable & Modular Architecture Specialist</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rasifalsaif&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 I build scalable and production-ready web applications  
-- 🏗️ I follow Modular Pattern & Clean Architecture  
-- ⚡ Strong focus on performance & maintainable code  
-- 🔐 Experienced with authentication & secure API systems  
-- 🧠 Always learning and improving  
+- 💻 Full Stack Developer (MERN + PERN + Next.js)
+- 🏗️ Modular & Scalable Architecture Focused
+- ⚡ Clean & Production Ready Code
+- 🔐 Authentication & Secure API Specialist
+- 🧠 Continuous Learner
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
+
+---
 
 ### ⚙️ Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
+---
 
 ### 🗄️ Database & ORM
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
+
+---
 
 ### 🧰 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-## 🏗️ Architecture Style
-
-✔ Modular Pattern  
-✔ MVC Structure  
-✔ Service Layer Pattern  
-✔ Scalable Folder Structure  
-✔ Clean & Maintainable Codebase  
-
----
-
-## 🚀 What I Can Build
-
-- Full Stack Web Applications  
-- REST API (Production Ready)  
-- Authentication System (JWT / OAuth)  
-- Blog / CMS Platform  
-- Admin Dashboard  
-- Scalable Backend Systems  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasifalsaif&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasifalsaif&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,16 +74,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rasifalsaif&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/rasifalsaif
-- 🌍 Portfolio: https://rasifalsaif.netlify.com 
-- 📧 Email: rasifalsaif@gmail.com 
+- 🌐 GitHub: https://github.com/rasifalsaif  
+- 📘 Facebook: https://facebook.com/rasifalsaif  
 
 ---
 
