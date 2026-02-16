@@ -80,23 +80,10 @@
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/rasifalsaif" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rasifalsaif-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- [![GitHub](https://img.shields.io/badge/GitHub-rasifalsaif-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rasifalsaif)
+- [![Facebook](https://img.shields.io/badge/Facebook-rasifalsaif-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rasifalsaif)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-rasifalsaif-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasifalsaif)
 
-<p>
-  <a href="https://facebook.com/rasifalsaif" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-rasifalsaif-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/rasifalsaif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rasifalsaif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 
 
