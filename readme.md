@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer (MERN + PERN + Next.js)
+- 💻 MERN & Next.js Developer | TypeScript • PostgreSQL • Prisma 
 - 🏗️ Modular & Scalable Architecture Focused
 - ⚡ Clean & Production Ready Code
 - 🔐 Authentication & Secure API Specialist
