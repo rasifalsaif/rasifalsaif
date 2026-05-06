@@ -73,17 +73,17 @@
 
 <p align="left">
   <a href="https://github.com/rasifalsaif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="30" style="vertical-align: middle;" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30" height="30" style="vertical-align: middle;" />
     <strong>rasifalsaif</strong>
   </a>
   <br />
   <a href="https://linkedin.com/in/rasifalsaif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="vertical-align: middle;" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" style="vertical-align: middle;" />
     <strong>rasifalsaif</strong>
   </a>
   <br />
   <a href="https://facebook.com/rasifalsaif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="30" style="vertical-align: middle;" />
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30" height="30" style="vertical-align: middle;" />
     <strong>rasifalsaif</strong>
   </a>
 </p>
