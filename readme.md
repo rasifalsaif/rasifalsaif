@@ -71,15 +71,20 @@
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/rasifalsaif">
-    <img src="https://skillicons.dev/icons?i=github" />
+<p align="left">
+  <a href="https://github.com/rasifalsaif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="30" style="vertical-align: middle;" />
+    <strong>rasifalsaif</strong>
   </a>
-  <a href="https://linkedin.com/in/rasifalsaif">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <br />
+  <a href="https://linkedin.com/in/rasifalsaif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="vertical-align: middle;" />
+    <strong>rasifalsaif</strong>
   </a>
-  <a href="https://facebook.com/rasifalsaif">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <br />
+  <a href="https://facebook.com/rasifalsaif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="30" style="vertical-align: middle;" />
+    <strong>rasifalsaif</strong>
   </a>
 </p>
 
