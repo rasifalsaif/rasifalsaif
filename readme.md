@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasifalsaif&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasifalsaif&show_icons=true&theme=radical" />
 </p>
 
 
@@ -74,19 +74,19 @@
 
 <p align="left">
   <a href="https://github.com/rasifalsaif" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30" height="30" style="vertical-align: middle;" />
-    <strong>rasifalsaif</strong>
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="25" height="25" style="vertical-align: middle;" />
   </a>
+  : <a href="https://github.com/rasifalsaif" target="_blank"><strong>rasifalsaif</strong></a>
   <br />
   <a href="https://linkedin.com/in/rasifalsaif" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" style="vertical-align: middle;" />
-    <strong>rasifalsaif</strong>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25" height="25" style="vertical-align: middle;" />
   </a>
+  : <a href="https://linkedin.com/in/rasifalsaif" target="_blank"><strong>rasifalsaif</strong></a>
   <br />
   <a href="https://facebook.com/rasifalsaif" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30" height="30" style="vertical-align: middle;" />
-    <strong>rasifalsaif</strong>
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="25" height="25" style="vertical-align: middle;" />
   </a>
+  : <a href="https://facebook.com/rasifalsaif" target="_blank"><strong>rasifalsaif</strong></a>
 </p>
 
 
