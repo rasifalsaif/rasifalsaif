@@ -6,11 +6,12 @@
 
 ## 👨‍💻 About Me
 
-- 💻 MERN & Next.js Developer | TypeScript • PostgreSQL • Prisma 
-- 🏗️ Modular & Scalable Architecture Focused
-- ⚡ Clean & Production Ready Code
-- 🔐 Authentication & Secure API Specialist
-- 🧠 Continuous Learner
+- 💻 **Full Stack Developer** dedicated to building modern, high-performance web applications.
+- ⚡ Specialized in **Next.js, React, TypeScript, and Node.js**.
+- 🗄️ Proficient in managing data with **PostgreSQL, MongoDB, and Prisma**.
+- 🏗️ Focused on **scalable architecture** and writing **clean, production-ready code**.
+- 🔐 Strong expertise in **authentication** and **secure API development**.
+- 🧠 Constantly learning and evolving to stay at the forefront of technology.
 
 ---
 
